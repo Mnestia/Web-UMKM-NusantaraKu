@@ -381,7 +381,7 @@ export default {
           priceRange: 'Rp 5000 - Rp 10.000',
           operationalHours: '08:00 - 16:00',
           address: 'Jl. Pangkalan Jati No.1a, RT.1/RW.1, Pangkalan Jati, Kec. Cinere, Kota Depok, Jawa Barat 16513',
-          phone: '(021) 2345-6789',
+          phone: '0815 8579 5896',
           mapsUrl: 'https://maps.app.goo.gl/1rtW4HdyVPALBtzX8',
           products: [
             { "id": 9, "name": "Crepes Coklat Keju", "description": "Crepes renyah dengan lelehan cokelat dan taburan keju", "price": 5000 },
@@ -468,7 +468,7 @@ export default {
           priceRange: 'Rp 10.000 - Rp 20.000',
           operationalHours: '08:00 - 23:59',
           address: 'Jl. Pangkalan Jati 2 No.1, Pangkalan Jati, Kec. Cinere, Kota Depok, Jawa Barat 16514',
-          phone: '(021) 2345-6789',
+          phone: '0858 1408 6205',
           mapsUrl: 'https://maps.app.goo.gl/GwVx5mpTiG4cNFHX9',
           products: [
             { 'id': 21, 'name': 'Jus Regular Semua Rasa', 'description': 'Pilih satu rasa buah (Mangga, Jeruk, Jambu, dll)', 'price': 10000 },
@@ -1527,4 +1527,5 @@ export default {
     grid-template-columns: 1fr;
   }
 }
+
 </style>
