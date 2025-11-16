@@ -1,5 +1,5 @@
 WebPreview
-![alt-text](https://github.com/Mnestia/Web-UMKM-NusantaraKu/blob/main/assets/WebPreview.png?raw=true)
+![alt-text](https://github.com/Mnestia/Web-UMKM-NusantaraKu/blob/main/src/assets/WebPreview.png?raw=true)
 
 # NusantaraKu
 
