@@ -1,3 +1,6 @@
+WebPreview
+![alt-text](https://github.com/Mnestia/Web-UMKM-NusantaraKu/blob/main/assets/WebPreview.png?raw=true)
+
 # NusantaraKu
 
 This template should help get you started developing with Vue 3 in Vite.
